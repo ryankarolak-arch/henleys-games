@@ -1,0 +1,11 @@
+{
+  "name": "Henley Parker Games",
+  "short_name": "Henley Parker",
+  "description": "A cozy arcade with games for all ages.",
+  "start_url": "./index.html",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#ffd1e8",
+  "theme_color": "#ffb3d9",
+  "icons": []
+}
